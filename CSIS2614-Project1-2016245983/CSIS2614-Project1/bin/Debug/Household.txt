@@ -1,0 +1,11 @@
+Mani street*3*3*January
+Bikwe*4*3*February
+Bikwe*7*3*March
+Mani street*2*5*February
+Mani street*2*5*April
+Nangoza*4*4*January
+Nangoza*3*4*February
+Nangoza*10*4*March
+Tweolo*3*5*January
+Tweolo*2*5*February
+Tweolo*2*5*February
