@@ -1,0 +1,8 @@
+c:\users\funeka\documents\visual studio 2015\Projects\CSIS2614Proj10\CSIS2614Proj10\bin\Debug\CSIS2614Proj10.exe.config
+C:\Users\FUNEKA\documents\visual studio 2015\Projects\CSIS2614Proj10\CSIS2614Proj10\obj\Debug\CSIS2614Proj10.csprojResolveAssemblyReference.cache
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614Proj10\CSIS2614Proj10\bin\Debug\CSIS2614Proj10.exe.config
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614Proj10\CSIS2614Proj10\bin\Debug\CSIS2614Proj10.exe
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614Proj10\CSIS2614Proj10\bin\Debug\CSIS2614Proj10.pdb
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614Proj10\CSIS2614Proj10\obj\Debug\CSIS2614Proj10.csprojResolveAssemblyReference.cache
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614Proj10\CSIS2614Proj10\obj\Debug\CSIS2614Proj10.exe
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614Proj10\CSIS2614Proj10\obj\Debug\CSIS2614Proj10.pdb

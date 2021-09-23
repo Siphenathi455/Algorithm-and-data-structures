@@ -1,0 +1,9 @@
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\bin\Debug\CSIS2614-Project5.exe.config
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\obj\Debug\CSIS2614-Project5.csprojResolveAssemblyReference.cache
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\obj\Debug\CSIS2614_Project5.Properties.Resources.resources
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\obj\Debug\CSIS2614-Project5.csproj.GenerateResource.Cache
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\bin\Debug\CSIS2614-Project5.exe
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\bin\Debug\CSIS2614-Project5.pdb
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\obj\Debug\CSIS2614-Project5.exe
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\obj\Debug\CSIS2614-Project5.pdb
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project5\CSIS2614-Project5\obj\Debug\CSIS2614_Project5.CfrmCatchMe.resources

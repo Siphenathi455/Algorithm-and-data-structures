@@ -1,0 +1,5 @@
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\SearchSort\MyClasses\bin\Debug\MyClasses.dll
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\SearchSort\MyClasses\bin\Debug\MyClasses.pdb
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\SearchSort\MyClasses\obj\Debug\MyClasses.csprojResolveAssemblyReference.cache
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\SearchSort\MyClasses\obj\Debug\MyClasses.dll
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\SearchSort\MyClasses\obj\Debug\MyClasses.pdb

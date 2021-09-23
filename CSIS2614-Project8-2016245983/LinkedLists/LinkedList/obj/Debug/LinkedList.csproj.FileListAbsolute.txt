@@ -1,0 +1,4 @@
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\LinkedLists\LinkedList\bin\Debug\LinkedList.dll
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\LinkedLists\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\LinkedLists\LinkedList\obj\Debug\LinkedList.dll
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\LinkedLists\LinkedList\obj\Debug\LinkedList.pdb

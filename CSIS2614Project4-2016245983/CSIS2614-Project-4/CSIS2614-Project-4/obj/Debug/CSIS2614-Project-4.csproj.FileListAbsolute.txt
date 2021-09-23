@@ -1,0 +1,6 @@
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project-4\CSIS2614-Project-4\bin\Debug\CSIS2614-Project-4.exe.config
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project-4\CSIS2614-Project-4\bin\Debug\CSIS2614-Project-4.exe
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project-4\CSIS2614-Project-4\bin\Debug\CSIS2614-Project-4.pdb
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project-4\CSIS2614-Project-4\obj\Debug\CSIS2614-Project-4.csprojResolveAssemblyReference.cache
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project-4\CSIS2614-Project-4\obj\Debug\CSIS2614-Project-4.exe
+C:\Users\FUNEKA\Downloads\CSIS\CSIS2614\CSIS2614-Project-4\CSIS2614-Project-4\obj\Debug\CSIS2614-Project-4.pdb
